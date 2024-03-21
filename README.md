@@ -11,3 +11,19 @@
 ## Libraries Used
 - MediaPipe Body Pose: Library for human pose detection.
 - OpenCV: Library for image and video processing.
+
+## Usage
+- Launch the script bicep_curl_counter.py.
+- Position yourself in front of the webcam with your arms extended and holding weights.
+- Perform bicep curl motions with your arms.
+- The system will detect and count each completed bicep curl, displaying the count on the screen in real-time.
+
+## Customization
+- You can adjust parameters such as confidence thresholds or frame rates in the code to suit your preferences.
+- Modify the user interface or add additional features as per your requirements.
+
+## Setup Instruction
+- Python Environment: Make sure you have Python installed on your system.
+- Required Libraries: Install the necessary Python libraries using pip:
+- pip install mediapipe opencv-python
+- python bicep_curl_counter.py
