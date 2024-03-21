@@ -27,3 +27,6 @@
 - Required Libraries: Install the necessary Python libraries using pip:
 - pip install mediapipe opencv-python
 - python bicep_curl_counter.py
+
+![curl1](https://github.com/inayatph/Bicep-Curl-Counter-Using-Mediapipe-Body-Pose/assets/164138014/b87a8406-6a51-4f7b-8599-c47920994180)
+
