@@ -30,3 +30,6 @@
 
 ![curl1](https://github.com/inayatph/Bicep-Curl-Counter-Using-Mediapipe-Body-Pose/assets/164138014/b87a8406-6a51-4f7b-8599-c47920994180)
 
+
+![curl2](https://github.com/inayatph/Bicep-Curl-Counter-Using-Mediapipe-Body-Pose/assets/164138014/591a8163-5c4f-4b7d-bd30-12a627a4519c)
+
